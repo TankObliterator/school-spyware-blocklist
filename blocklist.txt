@@ -1,0 +1,15 @@
+! Title: School Spyware Blocklist
+! Description: A DNS blocklist to disable invasive school-mandated software.
+! Expires: 7 days
+
+! Securley
+||securly.com^
+||alby.io^
+||ably-realtime.com^
+
+! Lightspeed Systems
+||relay.school^
+||lsrelay-extensions-production.s3.amazonaws.com^
+||lightspeedsystems.com^
+||lightspeedsystems.app^
+||l5c.io^
