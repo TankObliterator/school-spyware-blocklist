@@ -1,6 +1,10 @@
 # School Spyware Blocklist
 > My **personal** DNS blocklist to disable invasive school-mandated software. My goal with this list is to block as much of these invasive services as possible while avoiding unososciated projects.
 
+### Main List:
+```
+https://raw.githubusercontent.com/TankObliterator/school-spyware-blocklist/refs/heads/main/blocklist.txt
+```
 ## Software Currently Blocked
 | Name | Supported |
 | :---: | :---: |
