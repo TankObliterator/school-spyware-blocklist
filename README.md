@@ -1,5 +1,5 @@
 # School Spyware Blocklist
-> My **personal** DNS blocklist to disable invasive school-mandated software. My goal with this list is to block as much of these invasive services as possible while avoiding unassociated projects.
+> My **personal** DNS blocklist to disable invasive school-mandated software. My goal with this list is to block as many of these invasive services as possible while leaving everything else untouched.
 
 ### Main List:
 ```
